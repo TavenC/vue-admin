@@ -24,7 +24,7 @@
         logining: false,
         ruleForm2: {
           account: 'admin',
-          checkPass: '123456'
+          checkPass: '123'
         },
         rules2: {
           account: [
